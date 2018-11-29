@@ -1,6 +1,6 @@
 # Code-Jam-WebSocket-Challenge-90min-2018-Q3
 
-1. запустил inex.html
+1. запустил index.html
 
 2. пришло в консоль
 {"message":"You successfully accept challenge","next":"arithmetic","token":"8b1ebc1314b8f792"}
